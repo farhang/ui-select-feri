@@ -1,0 +1,41 @@
+{
+  "name": "angular-ui-select-ehdi",
+  "homepage": "https://github.com/ehdi/ui-select",
+  "authors": [
+    "AngularUI"
+  ],
+  "description": "AngularJS ui-select",
+  "main": [
+    "dist/select.js",
+    "dist/select.css"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "src",
+    "test",
+    "gulpfile.js",
+    "karma.conf.js",
+    "examples"
+  ],
+  "dependencies": {
+    "angular": ">=1.2.18"
+  },
+  "devDependencies": {
+    "jquery": "~1.11",
+    "angular-sanitize": ">=1.2.18",
+    "angular-mocks": ">=1.2.18"
+  },
+  "version": "0.19.11",
+  "_release": "0.19.11",
+  "_resolution": {
+    "type": "version",
+    "tag": "0.19.11",
+    "commit": "2057445f2f4cc161758dead9c9c4797a6e8f286e"
+  },
+  "_source": "https://github.com/ehdi/ui-select.git",
+  "_target": "0.19.11",
+  "_originalSource": "ui-select-ehdi"
+}
