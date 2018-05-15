@@ -1,6 +1,6 @@
 {
   "name": "angular-ui-select-feri",
-  "homepage": "https://github.com/farhang/ui-select",
+  "homepage": "https://github.com/farhang/ui-select-feri",
   "authors": [
     "AngularUI"
   ],
@@ -35,7 +35,7 @@
     "tag": "0.19.11",
     "commit": "2057445f2f4cc161758dead9c9c4797a6e8f286e"
   },
-  "_source": "https://github.com/ehdi/ui-select.git",
-  "_target": "0.19.11",
-  "_originalSource": "ui-select-ehdi"
+  "_source": "https://github.com/farhang/ui-select-feri.git",
+  "_target": "0.1.0",
+  "_originalSource": "ui-select-feri"
 }
